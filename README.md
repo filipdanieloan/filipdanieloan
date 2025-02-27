@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @filipdanieloan
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning web development and maths.
-- 💞️ I’m looking to collaborate on very basic web development projects, but as I learn more things, I would like more challenging stuff.
-- 📫 How to reach me: filip.oancea@gmail.com or discord @filipdanieloan.
-- 😄 Pronouns: he/him but when I have my phone off it's who/where.
+- 👀 I’m interested in C++.
+- 🌱 I’m currently learning C++ and maths.
+- 💞️ I’m looking to collaborate on basic C++ projects.
+- 📫 How to reach me: filip.oancea+collab@gmail.com (mention that you found me on GitHub and would like to collab)
+- 😄 Pronouns: he/him
 
 <!---
 filipdanieloan/filipdanieloan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
